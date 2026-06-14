@@ -1,0 +1,392 @@
+[
+  {
+    "isbn": "9788532511010",
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "editora": "Rocco",
+    "ano": "2000",
+    "capa": "",
+    "genero": "Fantasia",
+    "consultas": 142,
+    "classificacao": {
+      "faixa_etaria": "10 anos",
+      "descricao": "Aventura de fantasia com elementos mágicos leves e algumas cenas de tensão moderada adequadas a pré-adolescentes.",
+      "temas_sensiveis": ["Morte", "Medo", "Bullying"],
+      "violencia": "Leve",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Moderado",
+      "justificativa": "Apresenta confrontos mágicos, a morte dos pais do protagonista tratada de forma sensível e um vilão ameaçador, sem violência gráfica.",
+      "recomendacoes": [
+        "Adequado para leitores a partir de 10 anos",
+        "Excelente para incentivo à leitura no ensino fundamental",
+        "Mediação adulta opcional para discutir luto e perda"
+      ]
+    }
+  },
+  {
+    "isbn": "9788532512017",
+    "titulo": "Harry Potter e a Câmara Secreta",
+    "autor": "J.K. Rowling",
+    "editora": "Rocco",
+    "ano": "2000",
+    "capa": "",
+    "genero": "Fantasia",
+    "consultas": 98,
+    "classificacao": {
+      "faixa_etaria": "10 anos",
+      "descricao": "Continuação da saga com mistério, criaturas assustadoras e clima de suspense mais acentuado.",
+      "temas_sensiveis": ["Medo", "Violência", "Discriminação"],
+      "violencia": "Leve",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Moderado",
+      "justificativa": "Contém uma serpente gigante, petrificações e o tema da pureza de sangue, que aborda preconceito de forma alegórica.",
+      "recomendacoes": [
+        "Adequado a partir de 10 anos",
+        "Oportunidade para discutir preconceito e discriminação",
+        "Mediação adulta recomendada para leitores sensíveis a sustos"
+      ]
+    }
+  },
+  {
+    "isbn": "9788598078175",
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "ano": "2009",
+    "capa": "",
+    "genero": "Fantasia",
+    "consultas": 76,
+    "classificacao": {
+      "faixa_etaria": "10 anos",
+      "descricao": "Aventura mitológica dinâmica com combates fantásticos e humor adolescente.",
+      "temas_sensiveis": ["Violência", "Medo"],
+      "violencia": "Moderada",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Moderado",
+      "justificativa": "Batalhas contra monstros e deuses com ação frequente, porém estilizada e sem sangue explícito.",
+      "recomendacoes": [
+        "Indicado a partir de 10 anos",
+        "Ótimo para introduzir mitologia grega",
+        "Dispensa mediação adulta"
+      ]
+    }
+  },
+  {
+    "isbn": "9788574068602",
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "editora": "Agir",
+    "ano": "2009",
+    "capa": "",
+    "genero": "Fábula",
+    "consultas": 205,
+    "classificacao": {
+      "faixa_etaria": "Livre",
+      "descricao": "Fábula filosófica poética sobre amizade, amor e o sentido da vida.",
+      "temas_sensiveis": ["Morte"],
+      "violencia": "Inexistente",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Inexistente",
+      "justificativa": "Tema da morte tratado de maneira metafórica e delicada, sem qualquer conteúdo perturbador.",
+      "recomendacoes": [
+        "Adequado para todas as idades",
+        "Camadas de leitura para crianças e adultos",
+        "Mediação adulta enriquece a interpretação filosófica"
+      ]
+    }
+  },
+  {
+    "isbn": "9788598078618",
+    "titulo": "Diário de um Banana",
+    "autor": "Jeff Kinney",
+    "editora": "VR Editora",
+    "ano": "2008",
+    "capa": "",
+    "genero": "Comédia",
+    "consultas": 134,
+    "classificacao": {
+      "faixa_etaria": "Livre",
+      "descricao": "Comédia escolar em formato de diário ilustrado com humor cotidiano.",
+      "temas_sensiveis": ["Bullying"],
+      "violencia": "Inexistente",
+      "linguagem_impropria": "Leve",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Inexistente",
+      "justificativa": "Situações de constrangimento escolar e pequenas brigas tratadas com humor, sem violência real.",
+      "recomendacoes": [
+        "Adequado para todas as idades",
+        "Excelente para leitores resistentes à leitura",
+        "Dispensa mediação adulta"
+      ]
+    }
+  },
+  {
+    "isbn": "9788580573466",
+    "titulo": "A Culpa é das Estrelas",
+    "autor": "John Green",
+    "editora": "Intrínseca",
+    "ano": "2012",
+    "capa": "",
+    "genero": "Drama",
+    "consultas": 187,
+    "classificacao": {
+      "faixa_etaria": "14 anos",
+      "descricao": "Romance dramático sobre adolescentes com câncer, abordando amor, doença e mortalidade.",
+      "temas_sensiveis": ["Morte", "Doença", "Sexualidade"],
+      "violencia": "Inexistente",
+      "linguagem_impropria": "Moderada",
+      "sexo_nudez": "Leve",
+      "drogas": "Inexistente",
+      "medo_tensao": "Moderado",
+      "justificativa": "Temática de doença terminal e morte, com uma cena de intimidade sugerida e linguagem adolescente realista.",
+      "recomendacoes": [
+        "Indicado a partir de 14 anos",
+        "Mediação adulta recomendada para discutir luto e doença",
+        "Adequado para debates sobre finitude e empatia"
+      ]
+    }
+  },
+  {
+    "isbn": "9788580573282",
+    "titulo": "Jogos Vorazes",
+    "autor": "Suzanne Collins",
+    "editora": "Rocco",
+    "ano": "2010",
+    "capa": "",
+    "genero": "Distopia",
+    "consultas": 156,
+    "classificacao": {
+      "faixa_etaria": "14 anos",
+      "descricao": "Distopia em que adolescentes são forçados a lutar até a morte em uma arena televisionada.",
+      "temas_sensiveis": ["Violência", "Morte", "Opressão"],
+      "violencia": "Intensa",
+      "linguagem_impropria": "Leve",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Leve",
+      "medo_tensao": "Intenso",
+      "justificativa": "Violência mortal entre jovens, mortes descritas e crítica social a regimes autoritários e exploração midiática.",
+      "recomendacoes": [
+        "Indicado a partir de 14 anos",
+        "Mediação adulta recomendada para contextualizar a crítica política",
+        "Rico para debates sobre ética, mídia e poder"
+      ]
+    }
+  },
+  {
+    "isbn": "9788580411294",
+    "titulo": "Crepúsculo",
+    "autor": "Stephenie Meyer",
+    "editora": "Intrínseca",
+    "ano": "2008",
+    "capa": "",
+    "genero": "Romance Sobrenatural",
+    "consultas": 89,
+    "classificacao": {
+      "faixa_etaria": "12 anos",
+      "descricao": "Romance sobrenatural entre uma adolescente humana e um vampiro.",
+      "temas_sensiveis": ["Violência", "Sexualidade", "Relacionamento"],
+      "violencia": "Moderada",
+      "linguagem_impropria": "Leve",
+      "sexo_nudez": "Leve",
+      "drogas": "Inexistente",
+      "medo_tensao": "Moderado",
+      "justificativa": "Tensão romântica intensa, ameaças vampíricas e cenas de perigo, sem conteúdo sexual explícito.",
+      "recomendacoes": [
+        "Indicado a partir de 12 anos",
+        "Mediação adulta útil para discutir dinâmicas de relacionamento",
+        "Adequado para debate sobre representações de romance idealizado"
+      ]
+    }
+  },
+  {
+    "isbn": "9788525406582",
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "editora": "Companhia das Letras",
+    "ano": "1899",
+    "capa": "",
+    "genero": "Clássico",
+    "consultas": 173,
+    "classificacao": {
+      "faixa_etaria": "14 anos",
+      "descricao": "Clássico da literatura brasileira sobre ciúme, traição e memória, narrado por Bentinho.",
+      "temas_sensiveis": ["Ciúme", "Traição", "Morte"],
+      "violencia": "Leve",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Leve",
+      "drogas": "Inexistente",
+      "medo_tensao": "Leve",
+      "justificativa": "Temas adultos de ciúme obsessivo e suspeita de adultério exigem maturidade interpretativa, sem conteúdo gráfico.",
+      "recomendacoes": [
+        "Indicado a partir de 14 anos",
+        "Leitura obrigatória no ensino médio",
+        "Mediação adulta essencial para análise da narração não confiável"
+      ]
+    }
+  },
+  {
+    "isbn": "9788578270759",
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "editora": "Martins Fontes",
+    "ano": "2009",
+    "capa": "",
+    "genero": "Fantasia",
+    "consultas": 121,
+    "classificacao": {
+      "faixa_etaria": "10 anos",
+      "descricao": "Aventura de fantasia clássica sobre a jornada de um hobbit e treze anões.",
+      "temas_sensiveis": ["Violência", "Medo"],
+      "violencia": "Moderada",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Moderado",
+      "justificativa": "Batalhas contra criaturas fantásticas e mortes em combate descritas de forma épica, não gráfica.",
+      "recomendacoes": [
+        "Indicado a partir de 10 anos",
+        "Excelente porta de entrada para alta fantasia",
+        "Mediação adulta opcional"
+      ]
+    }
+  },
+  {
+    "isbn": "9788533613379",
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "editora": "Martins Fontes",
+    "ano": "2001",
+    "capa": "",
+    "genero": "Fantasia",
+    "consultas": 168,
+    "classificacao": {
+      "faixa_etaria": "12 anos",
+      "descricao": "Épico de fantasia sobre a luta contra o mal em uma jornada para destruir um anel poderoso.",
+      "temas_sensiveis": ["Violência", "Morte", "Guerra"],
+      "violencia": "Intensa",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Intenso",
+      "justificativa": "Batalhas de larga escala, criaturas sombrias e ambiente de guerra exigem maior maturidade, sem violência gratuita.",
+      "recomendacoes": [
+        "Indicado a partir de 12 anos",
+        "Densidade textual exige leitores experientes",
+        "Mediação adulta útil para acompanhar a complexidade narrativa"
+      ]
+    }
+  },
+  {
+    "isbn": "9788578279967",
+    "titulo": "As Crônicas de Nárnia",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "ano": "2009",
+    "capa": "",
+    "genero": "Fantasia",
+    "consultas": 112,
+    "classificacao": {
+      "faixa_etaria": "10 anos",
+      "descricao": "Saga de fantasia com forte simbolismo, aventuras em um mundo mágico e batalhas entre o bem e o mal.",
+      "temas_sensiveis": ["Violência", "Morte", "Medo"],
+      "violencia": "Moderada",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Moderado",
+      "justificativa": "Batalhas e o sacrifício de um personagem central tratados com tom alegórico e esperançoso.",
+      "recomendacoes": [
+        "Indicado a partir de 10 anos",
+        "Rico para discussão de alegorias e valores",
+        "Mediação adulta enriquece a leitura simbólica"
+      ]
+    }
+  },
+  {
+    "isbn": "9788578274290",
+    "titulo": "Coraline",
+    "autor": "Neil Gaiman",
+    "editora": "Rocco",
+    "ano": "2003",
+    "capa": "",
+    "genero": "Terror Infantojuvenil",
+    "consultas": 67,
+    "classificacao": {
+      "faixa_etaria": "12 anos",
+      "descricao": "Conto sombrio de terror infantojuvenil sobre uma menina que descobre um mundo paralelo perturbador.",
+      "temas_sensiveis": ["Medo", "Terror", "Abuso psicológico"],
+      "violencia": "Leve",
+      "linguagem_impropria": "Inexistente",
+      "sexo_nudez": "Inexistente",
+      "drogas": "Inexistente",
+      "medo_tensao": "Intenso",
+      "justificativa": "Atmosfera de horror psicológico com imagens perturbadoras (a Outra Mãe com botões nos olhos) que podem assustar crianças menores.",
+      "recomendacoes": [
+        "Indicado a partir de 12 anos",
+        "Mediação adulta recomendada para leitores sensíveis",
+        "Não indicado para crianças pequenas"
+      ]
+    }
+  },
+  {
+    "isbn": "9788556510181",
+    "titulo": "It – A Coisa",
+    "autor": "Stephen King",
+    "editora": "Suma",
+    "ano": "2014",
+    "capa": "",
+    "genero": "Terror",
+    "consultas": 94,
+    "classificacao": {
+      "faixa_etaria": "18 anos",
+      "descricao": "Romance de terror sobre uma entidade que se alimenta do medo de crianças em uma pequena cidade.",
+      "temas_sensiveis": ["Violência", "Morte", "Abuso", "Sexualidade", "Trauma infantil"],
+      "violencia": "Intensa",
+      "linguagem_impropria": "Intensa",
+      "sexo_nudez": "Moderado",
+      "drogas": "Moderado",
+      "medo_tensao": "Intenso",
+      "justificativa": "Cenas de violência gráfica contra crianças, terror explícito, linguagem pesada e conteúdo sexual perturbador.",
+      "recomendacoes": [
+        "Restrito a maiores de 18 anos",
+        "Não indicado para o público infantojuvenil",
+        "Inadequado para uso escolar sem rigorosa contextualização"
+      ]
+    }
+  },
+  {
+    "isbn": "9788581050478",
+    "titulo": "O Iluminado",
+    "autor": "Stephen King",
+    "editora": "Suma",
+    "ano": "2012",
+    "capa": "",
+    "genero": "Terror",
+    "consultas": 81,
+    "classificacao": {
+      "faixa_etaria": "16 anos",
+      "descricao": "Terror psicológico sobre uma família isolada em um hotel assombrado durante o inverno.",
+      "temas_sensiveis": ["Violência", "Alcoolismo", "Abuso", "Loucura", "Medo"],
+      "violencia": "Intensa",
+      "linguagem_impropria": "Intensa",
+      "sexo_nudez": "Leve",
+      "drogas": "Intenso",
+      "medo_tensao": "Intenso",
+      "justificativa": "Violência doméstica, alcoolismo, deterioração mental e cenas de terror intenso exigem maturidade do leitor.",
+      "recomendacoes": [
+        "Indicado a partir de 16 anos",
+        "Não indicado para o público infantojuvenil",
+        "Mediação adulta recomendada para discutir vício e violência familiar"
+      ]
+    }
+  }
+]
